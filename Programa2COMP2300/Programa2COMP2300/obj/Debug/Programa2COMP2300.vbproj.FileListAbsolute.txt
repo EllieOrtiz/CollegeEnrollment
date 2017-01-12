@@ -1,0 +1,45 @@
+c:\users\elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\bin\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.asociado.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.bachillerato.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.Form1.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.Form_hojamatri.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.maestria.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.Resources.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.vbproj.GenerateResource.Cache
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\bin\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Programa2COMP2300\Programa2COMP2300\bin\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\bin\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\bin\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\bin\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.asociado.resources
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.bachillerato.resources
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.Form1.resources
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.Form_hojamatri.resources
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.maestria.resources
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.Resources.resources
+C:\Users\Elizabeth\Desktop\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.vbproj.GenerateResource.Cache
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\bin\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\bin\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\bin\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.asociado.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.bachillerato.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.Form1.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.Form_hojamatri.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.maestria.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.Resources.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.vbproj.GenerateResource.Cache
+C:\Users\Elizabeth\Documents\GitHub\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\Documents\GitHub\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Documents\GitHub\Programa2COMP2300Abril25\Programa2COMP2300\obj\Debug\Programa2COMP2300.pdb
+C:\Users\Elizabeth\Documents\GitHub\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.exe
+C:\Users\Elizabeth\Documents\GitHub\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.xml
+C:\Users\Elizabeth\Documents\GitHub\Programa2COMP2300\Programa2COMP2300\obj\Debug\Programa2COMP2300.pdb
